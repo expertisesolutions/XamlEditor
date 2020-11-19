@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamlEditor", "XamlEditor.csproj", "{F5B71219-BCD9-4D18-853A-451160B682CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OmniXaml", "..\OmniXAML\OmniXaml\OmniXaml.csproj", "{549E2675-5AA4-4B2E-AB0B-B5F70A8BD9EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OmniXaml.Attributes", "..\OmniXAML\OmniXaml.Attributes\OmniXaml.Attributes.csproj", "{F9FD75D9-916A-451D-B460-0E384BAC2BA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OmniXaml.Services", "..\OmniXAML\OmniXaml.Services\OmniXaml.Services.csproj", "{923C244D-941F-45F5-AC8B-DD3D315DA08C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tizen.NUI", "..\TizenFX\src\Tizen.NUI\Tizen.NUI.csproj", "{DEC7DFFC-8E02-4A2D-99FD-FB6BE374BA6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tizen.NUI.Components", "..\TizenFX\src\Tizen.NUI.Components\Tizen.NUI.Components.csproj", "{1E6B29DB-E7D8-494E-AE5C-2007946E12AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B71219-BCD9-4D18-853A-451160B682CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B71219-BCD9-4D18-853A-451160B682CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B71219-BCD9-4D18-853A-451160B682CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B71219-BCD9-4D18-853A-451160B682CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549E2675-5AA4-4B2E-AB0B-B5F70A8BD9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549E2675-5AA4-4B2E-AB0B-B5F70A8BD9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549E2675-5AA4-4B2E-AB0B-B5F70A8BD9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549E2675-5AA4-4B2E-AB0B-B5F70A8BD9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FD75D9-916A-451D-B460-0E384BAC2BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FD75D9-916A-451D-B460-0E384BAC2BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FD75D9-916A-451D-B460-0E384BAC2BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FD75D9-916A-451D-B460-0E384BAC2BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923C244D-941F-45F5-AC8B-DD3D315DA08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923C244D-941F-45F5-AC8B-DD3D315DA08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923C244D-941F-45F5-AC8B-DD3D315DA08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923C244D-941F-45F5-AC8B-DD3D315DA08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC7DFFC-8E02-4A2D-99FD-FB6BE374BA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC7DFFC-8E02-4A2D-99FD-FB6BE374BA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC7DFFC-8E02-4A2D-99FD-FB6BE374BA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC7DFFC-8E02-4A2D-99FD-FB6BE374BA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6B29DB-E7D8-494E-AE5C-2007946E12AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6B29DB-E7D8-494E-AE5C-2007946E12AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6B29DB-E7D8-494E-AE5C-2007946E12AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6B29DB-E7D8-494E-AE5C-2007946E12AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5984C64D-2CD0-4A44-ADBD-209918C06306}
+	EndGlobalSection
+EndGlobal
